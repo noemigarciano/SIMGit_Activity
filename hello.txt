@@ -1,1 +1,6 @@
-"Hello, Git!" 
+What Challenges did you face during this activity?
+answer: When deleting the previous directory was difficult for me since I need to navigate the previous one that I made. And everytime I delete it it was still detected by the system
+Which Git Command was the most confusing?
+answer: I think the git command that I find cconfusing was the git push -u origin main because I'm not sure if it was push
+How version control helps in real-world development?
+answer: I think it helps the real world development through easy tracking and retrieving the files. Also, you can collaborate efficiently.
